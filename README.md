@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Hi there! I’m Alokit Mishra<br><br>I’m a Computer Science & Engineering undergraduate from Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur.<br>I love exploring how AI meets real-world problems, and I enjoy building, experimenting, and learning by doing 🚀<br><br>About Me :<br><br>🔭 I’m currently working on<br>AI-based projects, automation workflows, and real-world problem-solving using modern tech<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, GenAI applications, hackathons, open-source contributions, and startup ideas<br><br>🤝 I’m looking for help with<br>Advanced LLM optimization, agentic AI systems, and deploying AI solutions at scale<br><br>🌱 I’m currently learning<br>Generative AI, Large Language Models (LLMs), Agentic AI, and AI-driven automation<br><br>💬 Ask me about<br>AI basics, GenAI concepts, hackathons, project building, or my engineering journey<br><br>⚡ Fun fact<br>I believe learning never stops — if something excites me, I’ll dive deep into it 😄
+👋 Hi there! I’m Alokit Mishra<br><br>I’m a Computer Science & Engineering undergraduate from Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur.<br>I love exploring how AI meets real-world problems, and I enjoy building, experimenting, and learning by doing 🚀<br><h3>About Me :</h3><br>
+
+<ul>
+  <li>🔭 <strong>Currently working on:</strong> AI-based projects, automation workflows, and real-world problem-solving using modern tech</li>
+  <li>👯 <strong>Looking to collaborate on:</strong> AI/ML projects, GenAI applications, hackathons, open-source contributions, and startup ideas</li>
+  <li>🤝 <strong>Looking for help with:</strong> Advanced LLM optimization, agentic AI systems, and deploying AI solutions at scale</li>
+  <li>🌱 <strong>Currently learning:</strong> Generative AI, Large Language Models (LLMs), Agentic AI, and AI-driven automation</li>
+  <li>💬 <strong>Ask me about:</strong> AI basics, GenAI concepts, hackathons, project building, or my engineering journey</li>
+  <li>⚡ <strong>Fun fact:</strong> I believe learning never stops — if something excites me, I’ll dive deep into it 😄</li>
+</ul>
 
 
 ## 🌐 Socials:
