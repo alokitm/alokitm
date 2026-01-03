@@ -5,18 +5,18 @@
 I’m a **Computer Science & Engineering undergraduate** from  
 **Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**.  
 I love exploring how **AI meets real-world problems**, and I enjoy  
-**building, experimenting, and learning by doing** 🚀
+**building, experimenting, and learning by doing** 
 
 </div>
 
 <br>
 <ul>
-  <li>🔭 <strong>Currently working on:</strong> AI-based projects, automation workflows, and real-world problem-solving using modern tech</li>
-  <li>👯 <strong>Looking to collaborate on:</strong> AI/ML projects, GenAI applications, hackathons, open-source contributions, and startup ideas</li>
-  <li>🤝 <strong>Looking for help with:</strong> Advanced LLM optimization, agentic AI systems, and deploying AI solutions at scale</li>
-  <li>🌱 <strong>Currently learning:</strong> Generative AI, Large Language Models (LLMs), Agentic AI, and AI-driven automation</li>
-  <li>💬 <strong>Ask me about:</strong> AI basics, GenAI concepts, hackathons, project building, or my engineering journey</li>
-  <li>⚡ <strong>Fun fact:</strong> I believe learning never stops — if something excites me, I’ll dive deep into it 😄</li>
+  <li><strong>Currently working on:</strong> AI-based projects, automation workflows, and real-world problem-solving using modern tech</li>
+  <li> <strong>Looking to collaborate on:</strong> AI/ML projects, GenAI applications, hackathons, open-source contributions, and startup ideas</li>
+  <li> <strong>Looking for help with:</strong> Advanced LLM optimization, agentic AI systems, and deploying AI solutions at scale</li>
+  <li> <strong>Currently learning:</strong> Generative AI, Large Language Models (LLMs), Agentic AI, and AI-driven automation</li>
+  <li> <strong>Ask me about:</strong> AI basics, GenAI concepts, hackathons, project building, or my engineering journey</li>
+  <li> <strong>Fun fact:</strong> I believe learning never stops — if something excites me, I’ll dive deep into it </li>
 </ul>
 
 
