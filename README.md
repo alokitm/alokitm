@@ -20,7 +20,7 @@ I love exploring how **AI meets real-world problems**, and I enjoy
 </ul>
 
 
-## Connect with me
+## Connect with me 
 <ul>
   <li><a href="https://www.instagram.com/alokit_mishra/?hl=en">Instagram</a></li>
 <li><a href="https://www.linkedin.com/in/alokit-mishra-17a748326/">LinkedIn</a></li>
