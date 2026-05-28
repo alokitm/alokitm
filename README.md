@@ -2,7 +2,7 @@
 
 # I’m **Alokit Mishra**
 
-I’m a **Computer Science & Engineering undergraduate** from  
+I’m a **Computer Science & Engineering undergraduate** from 
 **Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**.  
 I love exploring how **AI meets real-world problems**, and I enjoy  
 **building, experimenting, and learning by doing** 
