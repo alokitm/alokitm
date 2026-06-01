@@ -1,6 +1,6 @@
 <div align="center">
 
-# I’m **Alokit Mishra**
+# I’m **Alokit Mishra **
 
 I’m a **Computer Science & Engineering undergraduate** from 
 **Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**.  
