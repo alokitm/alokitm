@@ -5,33 +5,34 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Generative+AI+Learner;Building+Real-World+AI+Projects" />
 
-I’m a **Computer Science & Engineering undergraduate** from  
-**Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**.  
+### AI • Machine Learning • Computer Vision • Backend Systems
 
-I’m passionate about exploring how **Artificial Intelligence solves real-world problems** through  
-modern software engineering, automation, and scalable systems.  
+I’m a Computer Science undergraduate at  
+**MMMUT Gorakhpur** who loves building intelligent systems,  
+exploring modern AI technologies, and learning by creating.
 
-I enjoy **building projects, experimenting with new technologies, participating in hackathons,**  
-and continuously learning by creating impactful solutions.
+Currently focused on **Generative AI, RAG systems, AI automation,**  
+and scalable backend architectures.
 
 </div>
 
 <br>
 
 <ul>
-  <li><strong>Currently working on:</strong> AI-powered applications, automation workflows, and real-world problem-solving systems using modern technologies</li>
 
-  <li><strong>Looking to collaborate on:</strong> AI/ML projects, Generative AI applications, hackathons, open-source contributions, and innovative startup ideas</li>
+<li><strong>Building:</strong> AI-powered applications, automation workflows, and real-world intelligent systems</li>
 
-  <li><strong>Looking for help with:</strong> Advanced LLM optimization, Agentic AI systems, RAG pipelines, and scalable AI deployment</li>
+<li><strong>Learning:</strong> Generative AI, LLMs, Agentic AI, RAG pipelines, and scalable AI engineering</li>
 
-  <li><strong>Currently learning:</strong> Generative AI, Large Language Models (LLMs), Agentic AI, System Design, and AI-driven automation</li>
+<li><strong>Interested in:</strong> Computer Vision, NLP, backend systems, AI infrastructure, and modern developer tools</li>
 
-  <li><strong>Ask me about:</strong> AI basics, GenAI concepts, project building, hackathons, backend development, or my engineering journey</li>
+<li><strong>Tech I enjoy working with:</strong> Python, FastAPI, PyTorch, Node.js, Redis, Docker, and modern AI frameworks</li>
 
-  <li><strong>Fun fact:</strong> I believe curiosity is the biggest superpower — once something interests me, I dive deep until I understand it completely</li>
+<li><strong>Currently exploring:</strong> AI deployment, vector databases, AI agents, and production-ready ML systems</li>
+
+<li><strong>Fun fact:</strong> If something genuinely interests me, I’ll keep experimenting until I fully understand how it works</li>
+
 </ul>
-
 ---
 
 # Connect With Me
