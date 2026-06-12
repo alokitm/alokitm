@@ -36,6 +36,22 @@ and scalable backend architectures.
 
 ---
 
+# Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_Smart_India_Hackathon_2025_Winner-8A2BE2?style=for-the-badge&logo=trophy&logoColor=white" />
+
+<br><br>
+
+### 🥇 SIH 2025 Winner  
+Built an **AI-powered document verification platform** focused on  
+scalable verification, OCR, Computer Vision, and intelligent automation.
+
+</div>
+
+---
+
 # Connect With Me
 
 <div align="center">
