@@ -33,6 +33,7 @@ and scalable backend architectures.
 <li><strong>Fun fact:</strong> If something genuinely interests me, I’ll keep experimenting until I fully understand how it works</li>
 
 </ul>
+
 ---
 
 # Connect With Me
