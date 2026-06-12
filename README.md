@@ -35,56 +35,53 @@ and scalable backend architectures.
 </ul>
 
 ---
-
 # Achievements
+<div align="center">
+
+<table border="0" width="100%">
+<tr border="0">
+<td width="35%" align="center" border="0">
+
+<img 
+  src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" 
+  width="220"
+/>
+
+</td>
+
+<td width="65%" align="left" border="0">
 
 <div align="center">
 
 <img 
-  src="https://img.shields.io/badge/🏆_SMART_INDIA_HACKATHON_2025_WINNER-8A2BE2?style=for-the-badge&labelColor=6A0DAD"
-  height="45"
+  src="https://img.shields.io/badge/🏆_SMART_INDIA_HACKATHON_2025_WINNER-8A2BE2?style=for-the-badge&labelColor=6A0DAD" 
+  width="100%"
+  height="55"
 />
 
 </div>
 
-
-
 <br>
-
-<table>
-<tr>
-
-<td width="25%" valign="top">
-
-<img 
-  width="170"
-  src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png"
-/>
-
-</td>
-
-<td width="75%" valign="top">
 
 <h2>🥇 SIH 2025 Winner</h2>
 
-<p>
-Built <b>SatyaSetu</b> — an AI-powered document verification platform focused on scalable verification, OCR, Computer Vision, and intelligent automation systems.
-</p>
+Built <strong>SatyaSetu</strong> — an AI-powered document verification platform focused on scalable verification, OCR, Computer Vision, and intelligent automation systems.
 
-<br>
+<br><br>
 
 <a href="https://www.satyasetu.live/">
-<img src="https://img.shields.io/badge/🌐_Visit_SatyaSetu-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_VISIT_SATYASETU-6A5ACD?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/posts/alokitmishra_sih2025-smartindiahackathon-winner-ugcPost-7405484532478439424-FDLx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJV7u4BZG-__3UR78Me-i_zP6p289Udd_E">
-<img src="https://img.shields.io/badge/🔗_View_LinkedIn_Post-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔗_VIEW_LINKEDIN_POST-8A2BE2?style=for-the-badge"/>
 </a>
 
 </td>
-
 </tr>
 </table>
+
+</div>
 
 ---
 
