@@ -127,14 +127,14 @@ Built <b>SatyaSetu</b> — an AI-powered document verification platform focused 
   />
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/alokitm">
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
   />
 </a>
-
-<br><br>
 
 <a href="https://github.com/alokitm">
   <img 
