@@ -73,8 +73,9 @@ Built <b>SatyaSetu</b> — an AI-powered document verification platform focused 
 <div align="center">
 
 <a href="https://www.instagram.com/alokit_mishra/?hl=en">
-<img src="https://img.shields.io/badge/Instagram-F58529?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 
 <a href="https://www.linkedin.com/in/alokit-mishra-17a748326/">
 <img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
