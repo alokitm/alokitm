@@ -1,75 +1,121 @@
+```markdown
 <div align="center">
 
-# I’m **Alokit Mishra **
+# I’m **Alokit Mishra**
 
-I’m a **Computer Science & Engineering undergraduate** from 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Generative+AI+Learner;Building+Real-World+AI+Projects" />
+
+<br/>
+
+I’m a **Computer Science & Engineering undergraduate** from  
 **Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**.  
-I love exploring how **AI meets real-world problems**, and I enjoy  
-**building, experimenting, and learning by doing** 
+
+I’m passionate about exploring how **Artificial Intelligence solves real-world problems** through  
+modern software engineering, automation, and scalable systems.  
+
+I enjoy **building projects, experimenting with new technologies, participating in hackathons,**  
+and continuously learning by creating impactful solutions.
 
 </div>
 
 <br>
+
 <ul>
-  <li><strong>Currently working on:</strong> AI-based projects, automation workflows, and real-world problem-solving using modern tech</li>
-  <li> <strong>Looking to collaborate on:</strong> AI/ML projects, GenAI applications, hackathons, open-source contributions, and startup ideas</li>
-  <li> <strong>Looking for help with:</strong> Advanced LLM optimization, agentic AI systems, and deploying AI solutions at scale</li>
-  <li> <strong>Currently learning:</strong> Generative AI, Large Language Models (LLMs), Agentic AI, and AI-driven automation</li>
-  <li> <strong>Ask me about:</strong> AI basics, GenAI concepts, hackathons, project building, or my engineering journey</li>
-  <li> <strong>Fun fact:</strong> I believe learning never stops — if something excites me, I’ll dive deep into it </li>
+  <li><strong>Currently working on:</strong> AI-powered applications, automation workflows, and real-world problem-solving systems using modern technologies</li>
+
+  <li><strong>Looking to collaborate on:</strong> AI/ML projects, Generative AI applications, hackathons, open-source contributions, and innovative startup ideas</li>
+
+  <li><strong>Looking for help with:</strong> Advanced LLM optimization, Agentic AI systems, RAG pipelines, and scalable AI deployment</li>
+
+  <li><strong>Currently learning:</strong> Generative AI, Large Language Models (LLMs), Agentic AI, System Design, and AI-driven automation</li>
+
+  <li><strong>Ask me about:</strong> AI basics, GenAI concepts, project building, hackathons, backend development, or my engineering journey</li>
+
+  <li><strong>Fun fact:</strong> I believe curiosity is the biggest superpower — once something interests me, I dive deep until I understand it completely</li>
 </ul>
-
-
-## Connect with me 
-<ul>
-  <li><a href="https://www.instagram.com/alokit_mishra/?hl=en">Instagram</a></li>
-<li><a href="https://www.linkedin.com/in/alokit-mishra-17a748326/">LinkedIn</a></li>
-<li><a href="mailto:alokitmishra4@gmail.com">Email</a></li>
-</ul>
-</div>
-
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/c/00599C" height="32"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="32"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="32"/>
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="32"/>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="32"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="32"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="32"/>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32"/>
-  <img src="https://cdn.simpleicons.org/keras/D00000" height="32"/>
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="32"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="32"/>
-  <img src="https://cdn.simpleicons.org/github/181717" height="32"/>
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="32"/>
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="32"/>
-  <img src="https://cdn.simpleicons.org/gitpod/FFAE33" height="32"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="32"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="32"/>
-  <img src="https://cdn.simpleicons.org/framer/0055FF" height="32"/>
-</div>
-
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=alokitm&theme=light&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=alokitm&theme=light&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-
-
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alokitm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Connect With Me
+
+<div align="center">
+
+<a href="https://www.instagram.com/alokit_mishra/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alokit-mishra-17a748326/">
+<img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:alokitmishra4@gmail.com">
+<img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alokitm">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,fastapi,mongodb,mysql,git,github,vscode" />
+
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/numpy/013243" height="42"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" height="42"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42"/>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42"/>
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42"/>
+<img src="https://cdn.simpleicons.org/keras/D00000" height="42"/>
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="42"/>
+<img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="42"/>
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="42"/>
+<img src="https://cdn.simpleicons.org/figma/F24E1E" height="42"/>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alokitm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=alokitm&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokitm&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=alokitm&style=for-the-badge&color=6A5ACD"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### “Learning deeply, building consistently, and engineering impactful AI solutions.”
+
+</div>
+```
