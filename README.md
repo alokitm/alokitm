@@ -41,8 +41,9 @@ and scalable backend architectures.
 <div align="center">
 
 <img 
-  src="https://img.shields.io/badge/🏆_SMART_INDIA_HACKATHON_2025_WINNER-8A2BE2?style=for-the-badge&labelColor=6A0DAD"
-  height="45"
+  src="https://img.shields.io/badge/🏆_SMART_INDIA_HACKATHON_2025_WINNER-8A2BE2?style=for-the-badge&labelColor=6A0DAD" 
+  width="100%"
+  height="55"
 />
 
 </div>
