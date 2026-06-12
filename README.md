@@ -101,7 +101,7 @@ and continuously learning by creating impactful solutions.
   src="https://github-readme-activity-graph.vercel.app/graph?username=alokitm&theme=react-dark&hide_border=true&area=true"
 />
 
-<br><br>
+<br>
 
 <img 
   src="https://raw.githubusercontent.com/alokitm/alokitm/output/github-contribution-grid-snake-dark.svg" 
