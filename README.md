@@ -3,7 +3,7 @@
 
 # I’m **Alokit Mishra**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Generative+AI+Learner;Building+Real-World+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Generative+AI+Learner;Building+Real-World+AI+Projects" />
 
 I’m a **Computer Science & Engineering undergraduate** from  
 **Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**.  
@@ -140,4 +140,3 @@ and continuously learning by creating impactful solutions.
 ### “Learning deeply, building consistently, and engineering impactful AI solutions.”
 
 </div>
-```
