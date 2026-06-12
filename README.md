@@ -36,36 +36,7 @@ and scalable backend architectures.
 
 ---
 
-# Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td width="30%" align="center">
-
-<img 
-  src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" 
-  width="140"
-/>
-
-</td>
-
-<td width="70%" align="left">
-
-<h2>🏅 SIH 2025 Winner</h2>
-
-Built an <strong>AI-powered document verification platform</strong> focused on scalable verification, OCR, Computer Vision, and intelligent automation systems.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SMART_INDIA_HACKATHON_2025_WINNER-8A2BE2?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+# Achievements <div align="center"> <img src="https://img.shields.io/badge/🏆_SMART_INDIA_HACKATHON_2025_WINNER-8A2BE2?style=for-the-badge" /> </div> <br> <div align="center"> <img align="left" width="180" src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" /> </div> ### 🥇 SIH 2025 Winner Built **SatyaSetu** — an AI-powered document verification platform focused on scalable verification, OCR, Computer Vision, and intelligent automation systems. <br> <a href="https://www.satyasetu.live/"> <img src="https://img.shields.io/badge/🌐_Visit_SatyaSetu-6A5ACD?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/posts/alokitmishra_sih2025-smartindiahackathon-winner-ugcPost-7405484532478439424-FDLx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJV7u4BZG-__3UR78Me-i_zP6p289Udd_E"> <img src="https://img.shields.io/badge/🔗_View_LinkedIn_Post-8A2BE2?style=for-the-badge"/> </a> <br><br><br><br>
 
 ---
 
