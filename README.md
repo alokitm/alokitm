@@ -37,15 +37,6 @@ and scalable backend architectures.
 ---
 
 # Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆_SMART_INDIA_HACKATHON_2025_WINNER-8A2BE2?style=for-the-badge" />
-
-</div>
-
-<br>
-
 <table>
 <tr>
 
