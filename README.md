@@ -85,34 +85,28 @@ and continuously learning by creating impactful solutions.
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+<a href="https://github.com/alokitm">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=alokitm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+</a>
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=alokitm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-/>
+<a href="https://github.com/alokitm">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+</a>
 
-</td>
+<br><br>
 
-<td>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img 
-  height="180em" 
-  src="https://streak-stats.demolab.com?user=alokitm&theme=tokyonight&hide_border=true&border_radius=12"
-/>
+<a href="https://github.com/alokitm">
+  <img 
+    height="180em" 
+    src="https://streak-stats.demolab.com?user=alokitm&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+</a>
 
 </div>
 
