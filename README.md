@@ -40,23 +40,23 @@ and scalable backend architectures.
 
 <table border="0" width="100%">
 <tr border="0">
-<td width="35%" align="center" border="0">
+
+<td width="30%" align="center" valign="middle" border="0">
 
 <img 
   src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" 
-  width="220"
+  width="180"
 />
 
 </td>
 
-<td width="65%" align="left" border="0">
+<td width="70%" align="left" valign="middle" border="0">
 
 <div align="center">
 
 <img 
   src="https://img.shields.io/badge/🏆_SMART_INDIA_HACKATHON_2025_WINNER-8A2BE2?style=for-the-badge&labelColor=6A0DAD" 
-  width="100%"
-  height="55"
+  height="38"
 />
 
 </div>
@@ -67,7 +67,7 @@ and scalable backend architectures.
 
 Built <strong>SatyaSetu</strong> — an AI-powered document verification platform focused on scalable verification, OCR, Computer Vision, and intelligent automation systems.
 
-<br><br>
+<br>
 
 <a href="https://www.satyasetu.live/">
   <img src="https://img.shields.io/badge/🌐_VISIT_SATYASETU-6A5ACD?style=for-the-badge"/>
@@ -78,6 +78,7 @@ Built <strong>SatyaSetu</strong> — an AI-powered document verification platfor
 </a>
 
 </td>
+
 </tr>
 </table>
 
