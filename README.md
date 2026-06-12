@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Generative+AI+Learner;Building+Real-World+AI+Projects" />
 
-<img src="https://raw.githubusercontent.com/alokitm/alokitm/output/github-contribution-grid-snake-dark.svg?raw=true" />
+<img src="https://raw.githubusercontent.com/alokitm/alokitm/output/github-contribution-grid-snake-dark.svg?v=99" />
 <br/>
 
 I’m a **Computer Science & Engineering undergraduate** from  
