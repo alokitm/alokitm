@@ -56,9 +56,11 @@ and scalable backend architectures.
 
 <div align="left">
 
-  <h2>🥇 SIH 2025 Winner</h2>
+<h2>🥇 SIH 2025 Winner</h2>
 
-Built **SatyaSetu** — an AI-powered document verification platform focused on scalable verification, OCR, Computer Vision, and intelligent automation systems.
+<p>
+Built <b>SatyaSetu</b> — an AI-powered document verification platform focused on scalable verification, OCR, Computer Vision, and intelligent automation systems.
+</p>
 
 <br>
 
