@@ -95,6 +95,8 @@ and continuously learning by creating impactful solutions.
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
 />
 
+<br><br>
+
 <img 
   height="180em" 
   src="https://streak-stats.demolab.com?user=alokitm&theme=tokyonight&hide_border=true&border_radius=12"
