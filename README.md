@@ -61,8 +61,6 @@ and scalable backend architectures.
 
 </div>
 
-<br>
-
 <h2>🥇 SIH 2025 Winner</h2>
 
 <ul>
@@ -75,7 +73,6 @@ and scalable backend architectures.
   <li>Built with a strong emphasis on <strong>AI engineering, reliability, and real-world deployment</strong></li>
 </ul>
 
-<br>
 
 <a href="https://www.satyasetu.live/">
   <img src="https://img.shields.io/badge/🌐_VISIT_SATYASETU-6A5ACD?style=for-the-badge"/>
