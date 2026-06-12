@@ -7,13 +7,6 @@
 
 ### AI • Machine Learning • Computer Vision • Backend Systems
 
-I’m a Computer Science undergraduate at  
-**MMMUT Gorakhpur** who loves building intelligent systems,  
-exploring modern AI technologies, and learning by creating.
-
-Currently focused on **Generative AI, RAG systems, AI automation,**  
-and scalable backend architectures.
-
 </div>
 
 <br>
