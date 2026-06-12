@@ -85,17 +85,29 @@ and continuously learning by creating impactful solutions.
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 <img 
   height="180em" 
   src="https://github-readme-stats.vercel.app/api?username=alokitm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
 />
+
+</td>
+
+<td>
 
 <img 
   height="180em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
 />
 
-<br><br>
+</td>
+</tr>
+</table>
+
+<br>
 
 <img 
   height="180em" 
