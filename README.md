@@ -92,12 +92,12 @@ and continuously learning by creating impactful solutions.
 
 <img 
   height="180em" 
-  src="https://streak-stats.demolab.com?user=alokitm&theme=tokyonight&hide_border=true&border_radius=12"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
 />
 
 <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokitm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+  src="https://streak-stats.demolab.com?user=alokitm&theme=tokyonight&hide_border=true&border_radius=12"
 />
 
 </div>
