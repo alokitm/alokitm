@@ -46,19 +46,18 @@ and scalable backend architectures.
 
 <br>
 
-<table>
-<tr>
+<div style="display:flex; align-items:center; gap:30px;">
 
-<td width="25%" valign="top">
+<div>
 
 <img 
   width="170"
   src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png"
 />
 
-</td>
+</div>
 
-<td width="75%" valign="top">
+<div>
 
 <h2>🥇 SIH 2025 Winner</h2>
 
@@ -76,10 +75,9 @@ Built <b>SatyaSetu</b> — an AI-powered document verification platform focused 
 <img src="https://img.shields.io/badge/🔗_View_LinkedIn_Post-8A2BE2?style=for-the-badge"/>
 </a>
 
-</td>
+</div>
 
-</tr>
-</table>
+</div>
 
 ---
 
