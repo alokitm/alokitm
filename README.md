@@ -13,7 +13,7 @@
 
 <ul>
 
-<li><strong>Portfolio:</strong>(https://alokit-portfolio.vercel.app/)</li>
+<li><strong>View my Portfolio :</strong> https://alokit-portfolio.vercel.app/ </li>
 
 <li><strong>Building:</strong> AI-powered applications, automation workflows, and real-world intelligent systems</li>
 
