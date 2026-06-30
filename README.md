@@ -13,6 +13,8 @@
 
 <ul>
 
+<li><strong>Portfolio:</strong> [AI-powered applications, automation workflows, and real-world intelligent systems](https://alokit-portfolio.vercel.app/)</li>
+
 <li><strong>Building:</strong> AI-powered applications, automation workflows, and real-world intelligent systems</li>
 
 <li><strong>Learning:</strong> Generative AI, LLMs, Agentic AI, RAG pipelines, and scalable AI engineering</li>
